@@ -8,10 +8,7 @@ This project is a personal educational exercise and is not affiliated with or en
 This is a clone of Amazon built using **HTML** and **CSS**.
 
 ## Features
-- Responsive Design
 - Product listing and details page
-- Search functionality
-- Shopping Cart feature
 
 ## Technologies Used
 - HTML
