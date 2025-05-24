@@ -5,7 +5,7 @@ This project is a personal educational exercise and is not affiliated with or en
 
 # Amazon Clone Project
 
-This is a clone of Amazon built using **HTML**, **CSS**, and **JavaScript**.
+This is a clone of Amazon built using **HTML** and **CSS**.
 
 ## Features
 - Responsive Design
@@ -15,8 +15,7 @@ This is a clone of Amazon built using **HTML**, **CSS**, and **JavaScript**.
 
 ## Technologies Used
 - HTML
-- CSS (with Tailwind)
-- JavaScript
+- CSS
 
 ## Setup Instructions
 1. Clone this repository
